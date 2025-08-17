@@ -266,7 +266,7 @@ body {
     position: relative;
 }
 
-#hero1::before {
+#hero1::before { 
     content: "01";
     position: absolute;
     font-size: 3vw;
